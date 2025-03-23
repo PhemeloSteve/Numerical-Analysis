@@ -64,3 +64,5 @@ for i in range(max_length): #loop to max length
     d_val = d[i] if i < len(d) else np.nan
     e_val = e[i] if i < len(e) else np.nan
     print(f"{i+1:2}. {a_val:20.10f} {b_val:20.10f} {c_val:20.10f} {d_val:20.10f} {e_val:20.10f}")
+
+    
