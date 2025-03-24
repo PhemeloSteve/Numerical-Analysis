@@ -9,6 +9,8 @@ Created on Fri Mar 21 12:14:22 2025
 import numpy as np
 
 ## Functions
+
+print("QUestion 2 a\n\n")
 def g1(x):
     return x - x**3 - 4*x**2 + 10
 
